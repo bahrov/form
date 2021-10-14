@@ -1,0 +1,15 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "It's a learning work for practicing bootstrap, js and vuejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maksym Bahrov",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "vue": "^3.2.20"
+  }
+}
